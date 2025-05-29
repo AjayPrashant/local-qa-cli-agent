@@ -1,0 +1,24 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore local virtual environments
+.venv/
+env/
+
+# Ignore vectorstore files (FAISS index, metadata)
+vectorstore/
+
+# Ignore model and tokenizer caches
+.cache/
+huggingface/
+*.safetensors
+
+# Ignore docs if you don't want to bake them into the image
+docs/
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore OS/macOS clutter
+.DS_Store

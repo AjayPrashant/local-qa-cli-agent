@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Model/cache files
+.cache/
+vectorstore/
+*.safetensors
+*.bin
+*.pth
+*.pt
+
+# Docker
+*.log
+*.pid
+.DS_Store

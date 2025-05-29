@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+rich
+PyPDF2
+python-dotenv
+langchain-community
