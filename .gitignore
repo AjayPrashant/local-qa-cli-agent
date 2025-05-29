@@ -16,4 +16,6 @@ vectorstore/
 *.log
 *.pid
 .DS_Store
-docs/
+docs/*
+!docs/.gitkeep
+
