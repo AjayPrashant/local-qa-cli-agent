@@ -16,3 +16,4 @@ vectorstore/
 *.log
 *.pid
 .DS_Store
+docs/
